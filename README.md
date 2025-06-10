@@ -1,8 +1,8 @@
-Data Structures & Algorithms Practice
+# Data Structures & Algorithms Practice
 This repository serves as a personal collection of Data Structures and Algorithms (DSA) practice problems. The solutions are primarily implemented in Python and JavaScript, with problems often sourced from the renowned "Cracking the Coding Interview" (CTCI) book.
 <br>
 
-📂 Repository Structure
+# 📂 Repository Structure
 The codes are organized by DSA topics.
 <br>
 
@@ -15,7 +15,7 @@ The codes are organized by DSA topics.
 <br>
 <br>
 
-🐍 Python Solutions
+# 🐍 Python Solutions
 This directory contains DSA solutions written in Python. Each problem is typically placed within a folder corresponding to the CTCI chapter or a general DSA topic .
 
 To run a Python solution:
@@ -47,12 +47,12 @@ node remove_dups.js
 ```
 <br>
 
-📚 Resources
+# 📚 Resources
 "Cracking the Coding Interview" by Gayle Laakmann McDowell: The primary source for many of the problems solved here.
 <br>
 <br>
 
-🤝 Contribution
+# 🤝 Contribution
 This is a personal practice repository. While direct contributions aren't expected, feel free to explore the solutions and learn from them! If you find any issues or have suggestions, you're welcome to open an issue.
 <br>
 
